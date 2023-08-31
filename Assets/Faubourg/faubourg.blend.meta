@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: ecfb970e9f2ef564d8a868f368137da4
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_Alanis-Bedard-Materiel_Transparent
+    second: {fileID: 2100000, guid: c16088cea3c032d449ea5bb556cb749c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_Gendron_Amelia
+    second: {fileID: 2100000, guid: 281d5d792e4b96d47a7f86085488b743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_Giroux_Julien_Feu
+    second: {fileID: 2100000, guid: ddac99a405a73364ab4fe12245d9045f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_J-Phil_Lafontaine_Arbres
+    second: {fileID: 2100000, guid: d55a180827771e34087b5dcc422668fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_J-Phil_Lafontaine_Cloture
+    second: {fileID: 2100000, guid: 8e052ce7ee2c06e4ca26529a863c8abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_J-Phil_Lafontaine_SilhouForest
+    second: {fileID: 2100000, guid: c8894319c2dd11847a12508151f68e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1transp_Olesea_Turza_Transparent
+    second: {fileID: 2100000, guid: 1abfa461072c6634caafc508b0c48332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alanis-Bedard-Materiel_Opaque
+    second: {fileID: 2100000, guid: ae8d69d2d233f8443af27165c290ade5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carolane_Mat.003
+    second: {fileID: 2100000, guid: 151bc4939d711a840a8550cdf01b1eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carolane_Metal.001
+    second: {fileID: 2100000, guid: c20790b5f2eca23488441b685cda608c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carolane_Metal.002
+    second: {fileID: 2100000, guid: 55bb4b6a6d2922a4093c8c0fcc3e95d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carolane_Vitre.001
+    second: {fileID: 2100000, guid: 5d419016b46a5544eabebf855149aa96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giroux_Julien
+    second: {fileID: 2100000, guid: 9c55a1cc71d7252419775367b60f9385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: J-Phil_Lafontaine_Sol
+    second: {fileID: 2100000, guid: a70877a1b006fbb4ab7aba6742078363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Olesea_Sturza_Material
+    second: {fileID: 2100000, guid: 3ff4e7278b518d24d97c0ec4969b2f26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Olesea_Sturza_Material.001
+    second: {fileID: 2100000, guid: a342bbbde97f2f5468c99a7fdaa8597f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Olesea_Sturza_Material_Metal
+    second: {fileID: 2100000, guid: 3fa8be8d3d4ab22458eacd9eb8684bbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Olesea_Sturza_Material_Metal.001
+    second: {fileID: 2100000, guid: 86b8e0a831c78044e90f4aad0f1af3bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yannick_Kahimbiri_Texture.001
+    second: {fileID: 2100000, guid: 6d9ec6deab004184d9b4789e1dfa0c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: francis_plourde_Mat_base
+    second: {fileID: 2100000, guid: 40698e76410e1e245996646ac88c9054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: francis_plourde_metal
+    second: {fileID: 2100000, guid: 8cc83165a64ecb240862479d91f67b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hebert_marie-pier_brick.001
+    second: {fileID: 2100000, guid: d8a75c1454d44354d8e5d80313f8037b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hebert_marie-pier_mat_beton_gris.001
+    second: {fileID: 2100000, guid: f70bb6fdb3799634486911010ff22401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hebert_marie-pier_mat_beton_jaune.001
+    second: {fileID: 2100000, guid: ebed0371b0a9acf478475ba34504e5d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hebert_marie-pier_mat_brillant.001
+    second: {fileID: 2100000, guid: 03aafc99c586b094c81791000210580a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hebert_marie-pier_vittr.001
+    second: {fileID: 2100000, guid: 3202ebc48d9dba2409d90cd5767b0b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vallee_felix_MatTx
+    second: {fileID: 2100000, guid: d684d8455653aa14eb0178840bc7c517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vallee_felix_NeonTx
+    second: {fileID: 2100000, guid: 385210f6b05d61e42bab2768e30e2614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vallee_felix_ReflTx
+    second: {fileID: 2100000, guid: fc57b7f3730a6684c8456154543cb950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vallee_felix_fenetreTx
+    second: {fileID: 2100000, guid: 33b99644051ca4247bd3e179f68ab00c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vallee_felix_metalTx
+    second: {fileID: 2100000, guid: f865d49cbedcc734caf33a3e5b54d9bd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
